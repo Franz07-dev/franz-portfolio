@@ -76,8 +76,8 @@ export default function Home() {
         <div className="anim-fade-up delay-5 mt-16 pt-10 flex flex-wrap gap-10"
           style={{ borderTop: "1px solid var(--border)" }}>
           {[
-            { val: "1+",  label: "Year experience" },
-            { val: "11+",  label: "Projects built" },
+            { val: "8+",  label: "Months of experience" },
+            { val: "10+",  label: "Projects built" },
             { val: "Computer Science",  label: "Graduate" },
           ].map(({ val, label }) => (
             <div key={label}>
