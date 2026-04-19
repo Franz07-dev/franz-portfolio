@@ -75,12 +75,12 @@ const projectSections: ProjectSection[] = [
       },
       {
         title:    "Expense Tracker",
-        desc:     "Track income and expenses with category breakdowns and running totals.",
-        learned:  "Complex state management across multiple data types and building data-driven UI.",
+        desc:     "Track income and expenses with category breakdowns, budget limits, and a 6-month bar chart — all with local persistence.",
+        learned:  "Complex state management across multiple data types, localStorage persistence, data visualization with raw CSS bars, and building data-driven UI.",
         status:   "Live",
         image:    "/expense-tracker.png",
         href:     "/projects/expense-tracker",
-        tags:     ["React", "State", "Finance"],
+        tags:     ["Next.js", "TypeScript", "localStorage"],
       },
       {
         title:    "To-do List",
