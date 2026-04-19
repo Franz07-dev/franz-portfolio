@@ -84,12 +84,12 @@ const projectSections: ProjectSection[] = [
       },
       {
         title:    "To-do List",
-        desc:     "A productivity app for organizing tasks with filtering, completion tracking, and local persistence.",
-        learned:  "CRUD operations in React, localStorage for persistence, and filter logic with derived state.",
+        desc:     "A productivity app for organizing tasks with category badges, dual filtering by status and category, inline editing, and local persistence.",
+        learned:  "CRUD operations in Next.js, localStorage persistence, derived state with chained filters, and inline edit mode with save/cancel and keyboard shortcuts.",
         status:   "Live",
         image:    "/todo-list.png",
         href:     "/projects/to-do-list",
-        tags:     ["React", "localStorage", "State"],
+        tags:     ["Next.js", "TypeScript", "localStorage"],
       },
       {
         title:    "Markdown Previewer",
