@@ -38,7 +38,7 @@ const timeline = [
     desc:  "Building real products for a startup — landing page, admin dashboard, and more.",
   },
   {
-    year:  "2024",
+    year:  "2023",
     title: "CS Graduate",
     desc:  "Completed Bachelor of Science in Computer Science at Cavite State University.",
   },
