@@ -1,0 +1,15 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0e1420; }
+      .border { fill: none; stroke: #1e2a38; stroke-width: 2; }
+      .text { fill: #64748b; font-family: Arial, sans-serif; font-size: 18px; text-anchor: middle; }
+      .label { fill: #2dd4bf; font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect class="bg" width="600" height="400"/>
+  <rect class="border" x="10" y="10" width="580" height="380" rx="8"/>
+  <text class="text" x="300" y="180">Project Screenshot</text>
+  <text class="text" x="300" y="210">Recommended: 600x400px</text>
+  <text class="label" x="300" y="260">Replace with actual project demo/screenshot</text>
+</svg>
