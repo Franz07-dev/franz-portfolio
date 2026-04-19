@@ -98,7 +98,7 @@ const projectSections: ProjectSection[] = [
         status:   "Live",
         image:    "/markdown-previewer.png",
         href:     "/projects/markdown-viewer",
-        tags:     ["React", "Markdown", "Editor", "marked"],
+        tags:     ["Next.js", "Markdown", "Editor", "marked"],
       },
     ],
   },
